@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Docker_HTTPS_ASPNET_CORE</RootNamespace>
+    <UserSecretsId>Docker_HTTPS_ASPNET_CORE-0b631626-faaf-454b-8399-5756112f4e48</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+  </ItemGroup>
+
+</Project>
